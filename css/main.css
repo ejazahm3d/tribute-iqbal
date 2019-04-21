@@ -1,0 +1,40 @@
+h1,
+h3,
+p,
+blockquote {
+  text-align: center;
+}
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#main {
+  background-color: rgba(236, 236, 236, 0.849);
+  font-family: sans-serif;
+}
+.header {
+  padding: 1rem;
+}
+#img-div {
+  text-align: center;
+  background: white;
+  padding: 2rem 2rem 1.2rem 2rem;
+}
+img {
+  width: 75vw;
+}
+#img-caption {
+  margin: 0;
+  padding: 0;
+}
+
+#tribute-info {
+  margin: 1rem auto;
+  padding: 1rem;
+  margin-bottom: 0;
+  width: 75vw;
+}
+li {
+  margin-bottom: 0.7rem;
+}
